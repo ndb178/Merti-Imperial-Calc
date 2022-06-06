@@ -1,0 +1,59 @@
+html, body {
+    background: #1F2937;
+    font-family: "Inter", sans-serif ;
+    padding: 20px;
+    color: white;
+    margin: 0;
+    padding: 0;
+  
+}
+.header {
+     line-height: 38px;
+    background: linear-gradient(246.26deg, #585dfe 0%, #fb3796 100%);
+    position: absolute;
+    width: 100%;
+    height: 260px;
+    left: 0px;
+    top: 0px;
+    text-align: center;
+    
+}
+.header h1 {
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 38px;
+    height: 38px;
+    top: 53px;
+}
+.header input {
+    
+    font-family: "Inter", ;
+    color: white;
+    background: transparent;
+    text-align: center;
+    border-width:0px;
+    border:none;
+    outline:none;
+    width: 100%;
+    height: 95.23px;
+   
+    font-weight: 800;
+    font-size: 95px;
+    text-align: center;
+    font-style: normal;
+}
+
+.header p {
+height: 80px;
+}
+
+main {
+    color: #D2D2D2;
+    font-style: normal;
+    font-weight: 400;
+}
+.instructions {
+    color: #fb3796;
+    height: auto;
+    font-style: italic;
+}
